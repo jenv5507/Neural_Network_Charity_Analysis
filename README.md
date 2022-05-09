@@ -16,4 +16,4 @@ Compiling, Training, and Evaluating the Model:
  - The features are Application Type, Affiliation, Classification Use Case, Organization, Income Amount and Ask Amount
  - EIN, Name, Status, and Special Consideration were removed from the data before processing.
 
-![](/Resources/compile_Model.png)
+![](/Resources/compile_model.png)
