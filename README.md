@@ -12,8 +12,4 @@ Data Preprossing:
  - EIN, Name, Status, and Special Consideration were removed from the data before processing.
 
 Compiling, Training, and Evaluating the Model:
- - The Target is 'Is Successful'.
- - The features are Application Type, Affiliation, Classification Use Case, Organization, Income Amount and Ask Amount
- - EIN, Name, Status, and Special Consideration were removed from the data before processing.
-
 ![](/Resources/compile_model.png)
