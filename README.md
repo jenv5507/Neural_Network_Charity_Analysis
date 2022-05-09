@@ -17,4 +17,4 @@ Compiling, Training, and Evaluating the Model:
 
  - The image above is the selection for the neural network and I was able to get it to a 72.58% accuracy.
  - I made 3 separate attemps and was not able to get it to the achieved target model performance of 75%.  Following are some of the adjustments I made to to try to achieve the 75% accruacy.
-   -  
+
