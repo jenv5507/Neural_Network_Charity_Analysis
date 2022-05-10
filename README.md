@@ -17,9 +17,10 @@ Compiling, Training, and Evaluating the Model:
 
  - The image above is the selection for the neural network and I was able to get it to a 72.58% accuracy.
  - I made 3 separate attempts and was not able to get it to the achieved target model performance of 75%.  Following are some of the adjustments I made to to try to achieve the 75% accruacy.
-  -  Added another layer
-  -  Increased the nodes
-  -  Changed the activation methods
+   -  Added another layer
+   -  Increased the nodes
+   -  Reduced the features
+   -  Changed the activation methods
 
 ## <b>Summary</b>
 Since I was not able to reach the accuracy of 75%, I would recommend using another model to determine which charities were successfuly based on funding received. I would suggest using a Random Forest Classifier as it combines multiple models to help improve the accruacy and robustness and therefore, increase the overall performance of the model.  
